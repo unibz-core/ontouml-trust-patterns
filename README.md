@@ -5,8 +5,9 @@ TPL is a pattern language for modeling trust in ArchiMate that has been designed
 ## Project Structure
 
 * [/source](/source) contains the source files of the TPL pattern library and the models with the cases depicting its usage.
-* [/images](/images) contains figures depicting TPL and ROT
 * [/technical_report](/technical_report) 
+* [/ontology](/ontology) contains figures depicting ROT
+
 
 ## Reusing source files
 
