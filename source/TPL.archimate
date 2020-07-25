@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Trust Modeling Patterns" id="60ca98b4-0844-4002-b728-9c24368759c0" version="4.0.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="TPL" id="60ca98b4-0844-4002-b728-9c24368759c0" version="4.0.1">
   <folder name="Strategy" id="b34c30f6-c194-4dd8-8942-77d0542dc05d" type="strategy">
     <element xsi:type="archimate:Resource" name="&lt;&lt;Trustee>> Resource" id="dcf3a194-6c45-45eb-b037-991723860cdd"/>
     <element xsi:type="archimate:Capability" name="Capability" id="1e470eb4-a583-4e4c-b385-8e1b0019b082"/>
@@ -58,7 +58,7 @@
     <element xsi:type="archimate:Assessment" name="        &lt;&lt;Trust>>      Charlie is trustworthy  [trust degree = high]" id="3fe46f4e-5ac9-4ad2-bcf4-021f1ab27e88"/>
     <element xsi:type="archimate:Stakeholder" name="&lt;&lt;Trustor>>  Bob" id="d2fa4ace-2ac2-4f4a-925f-77fa68d7999d"/>
     <element xsi:type="archimate:Assessment" name="        &lt;&lt;Trust>>      Charlie is trustworthy  [trust degree = high]" id="4647e050-de0e-4c36-ba77-bac1642d4b68"/>
-    <element xsi:type="archimate:Assessment" name="System security control has flaws" id="d68c0803-326f-4fcb-90e1-fc22b53c226f"/>
+    <element xsi:type="archimate:Assessment" name="   &lt;&lt;HazardAssessment>>     System security control has flaws" id="d68c0803-326f-4fcb-90e1-fc22b53c226f"/>
     <element xsi:type="archimate:Driver" name="&lt;&lt;Risk>> System loss of credibility" id="5416c5af-7696-4bda-9763-e6e692256831"/>
     <element xsi:type="archimate:Goal" name="Data privacy preservation" id="440c60a2-169a-4558-aae6-82fffbdfd0dd"/>
   </folder>
@@ -810,7 +810,7 @@
           <sourceConnection xsi:type="archimate:Connection" id="9670c9dc-c07a-40ab-a995-356a29a00e7e" textPosition="2" source="bb40ca58-84bd-4afe-952d-d4b277b00089" target="2f22f9b0-036c-4162-b01f-093077d0b2a1" archimateRelationship="d18f0554-a099-4e80-bef7-6fa3eb3ded52"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="0a840613-0032-43f7-9cb8-0ff0c8ff497e" targetConnections="995f59d0-7915-4ae0-9e62-636fe77dd355 7f7921dc-fabc-4257-800e-d305760fb736" archimateElement="d68c0803-326f-4fcb-90e1-fc22b53c226f">
-          <bounds x="24" y="156" width="156" height="49"/>
+          <bounds x="24" y="156" width="253" height="49"/>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="7b130109-e924-4a14-a12a-8c295d4af43b" targetConnections="c4958c17-0184-43c2-94c9-fd7650ddb686" archimateElement="5416c5af-7696-4bda-9763-e6e692256831">
