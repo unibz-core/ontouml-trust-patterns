@@ -36,7 +36,7 @@
     <element xsi:type="archimate:Stakeholder" name="&lt;&lt;Trustor>>     WHO" id="01d74f24-ac59-457f-a7ee-4dd74cd11a48"/>
     <element xsi:type="archimate:Goal" name="Have reliable information about the safety and effectiveness of hydroxychloroquine for treatment of COVID-19" id="4c0f43c5-0807-4b31-82e6-43a753646771"/>
     <element xsi:type="archimate:Assessment" name="    &lt;&lt;Trust>>       Publication Authors are trustworthy    [trust degree = high]" id="6f61a4eb-7703-4067-8f05-74425dc111c9"/>
-    <element xsi:type="archimate:Stakeholder" name="       &lt;&lt;Trustor>>    Publication Authors" id="1dc88b32-2205-4ce4-92d7-81593f5b2040"/>
+    <element xsi:type="archimate:Stakeholder" name="&lt;&lt;Trustor>>    Publication Authors" id="1dc88b32-2205-4ce4-92d7-81593f5b2040"/>
     <element xsi:type="archimate:Assessment" name="    &lt;&lt;Trust>>       COVID-19 data repository is trustworthy    [trust degree = high]" id="6b803ec1-ebfb-45fb-ba49-0e7c8b499f3d"/>
     <element xsi:type="archimate:Goal" name="Evaluate the safety and effectiveness of hydroxychloroquine for treatment of COVID-19 " id="a5db54f7-f393-4046-b450-0d63baa71c9c"/>
     <element xsi:type="archimate:Assessment" name=" The repository is transparent about the meaning, provenance, representativeness and quality of data " id="4eb1ca6e-76a4-4b32-8058-89c97ce90fa4"/>
@@ -703,7 +703,7 @@
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Case Study - Trust Assessment Composition" id="6d13dedb-aa15-47b2-a5c5-1f4dede0d62d">
       <child xsi:type="archimate:DiagramObject" id="622c3acf-4251-4527-8722-ec1a460e57c4" archimateElement="1dc88b32-2205-4ce4-92d7-81593f5b2040">
-        <bounds x="588" y="24" width="131" height="55"/>
+        <bounds x="588" y="24" width="169" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="5453846b-54d9-4638-9958-5463b8bf45bb" source="622c3acf-4251-4527-8722-ec1a460e57c4" target="c3916c55-3ca2-4ab4-b67d-3bb4b3ddcc2c" archimateRelationship="6d801e5b-bc96-4562-ba0a-0401fe5bac52"/>
         <sourceConnection xsi:type="archimate:Connection" id="7c772f14-1734-438a-8d17-82ae6861e2db" source="622c3acf-4251-4527-8722-ec1a460e57c4" target="e1fd2e00-ec22-4fcb-b1f3-c1502a059714" archimateRelationship="0259f71e-26dd-4bcf-8261-6cb1f714fff7"/>
       </child>
