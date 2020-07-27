@@ -22,9 +22,9 @@ TPL is a pattern language for modeling trust in ArchiMate that has been designed
 
 ## Authors
 
-* **Glenda Amaral** - Free University of Bozen-Bolzano, Italy - [Website]
+* **Glenda Amaral** - Free University of Bozen-Bolzano, Italy - [Website](https://www.researchgate.net/profile/Glenda_Amaral)
 * **Tiago Prince Sales** - Free University of Bozen-Bolzano, Italy - [Website](https://www.researchgate.net/profile/Tiago_Prince_Sales)
 * **Giancarlo Guizzardi** - Free University of Bozen-Bolzano, Italy - [Website](http://www.inf.ufes.br/~gguizzardi)
-* **João Paulo A. Almeida** - Federal University of Espírito Santo, Brazil - [Website]
-* **Daniele Porello** - ISTC-CNR Laboratory for Applied Ontology, Italy - [Website]
+* **João Paulo A. Almeida** - Federal University of Espírito Santo, Brazil - [Website](https://www.researchgate.net/profile/Joao_Almeida16)
+* **Daniele Porello** - ISTC-CNR Laboratory for Applied Ontology, Italy - [Website](https://www.researchgate.net/profile/Daniele_Porello)
 
